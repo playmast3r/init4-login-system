@@ -26,7 +26,7 @@ while($row2 = mysqli_fetch_assoc($result2)) {
 }
 $password2 = $salt;
 $password2 .= $password;
-$password2 = hash('sha256',$password2);
+$password2 = hash('sha256',$password2);     //I have used sha256, you can use sha512/bcrypt for more security
 $sql="SELECT * FROM User WHERE email='$email' and password='$password2';";
 $result = $db->query($sql);
 $count=mysqli_num_rows($result);
