@@ -2,7 +2,7 @@
 A secure open-source login system using core php and mysql as backend. Built from scratch and with love.
 
 # Features:
-  1.SHA-256 with variable salt to store password.
+  1.SHA-256 with variable salt to store password
   
   2.Safe from:
   
@@ -19,3 +19,6 @@ A secure open-source login system using core php and mysql as backend. Built fro
   6.Designed with security in mind
 
 Live demo: https://www.iamsid.tk/init4/login.php
+     Use:  Email: test
+           Password: password
+           
