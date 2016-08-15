@@ -18,7 +18,10 @@ A secure open-source login system using core php and mysql as backend. Built fro
   
   6.Designed with security in mind
 
-Live demo: https://www.iamsid.tk/init4/login.php
-     Use:  Email: test
-           Password: password
-           
+#Live demo: 
+
+Link: https://www.iamsid.tk/init4/login.php
+
+Email: test
+
+Password: password
