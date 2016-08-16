@@ -8,7 +8,7 @@ A secure open-source login system using core php and mysql as backend. Built fro
   
     a.Brute-force (Used Google reCAPTCHA v2)
     b.SQL injection (mysqli_real_escape_string())
-    c.XSS Scripting
+    c.XSS Attack (Stored and Reflected)
     d.Birthday attack
   3.Login Log for each user with their IP address and timestamp
   
